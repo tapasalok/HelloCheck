@@ -18,9 +18,7 @@ import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 
-/**
- * Created by roman on 2/10/15.
- */
+
 public class Receiver extends AsyncTask<Void, Double, Result> {
 
     final static int sampleRate = Config.sampleRate;
